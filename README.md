@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichalMaruska-TomTom
+- 👋 Hi, I’m @MichalMaruska
 - 👀 I’m interested in ... scheme language
 - 🌱 I’m currently learning ... racket/chez
 - 💞️ I’m looking to collaborate on ... apt packaging, git, keyboard input, sawfish WM, gauche
