@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MichalMaruska
-- 👀 I’m interested in ... scheme language
-- 🌱 I’m currently learning ... racket/chez
+- 👀 I’m interested in ... Scheme language
+- But I can code professionally in C++, Kotlin, Java, Python, Shell
+- 🌱 I’m currently learning ... OpenCV
 - 💞️ I’m looking to collaborate on ... apt packaging, git, keyboard input, sawfish WM, gauche
+- I maintain a "double" keyboard driver for Xorg, Weston and Windows 10+
 - 📫 How to reach me ...
 
 <!---
