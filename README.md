@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @MichalMaruska
-- 👀 I’m interested in ... Scheme language
-- But I can code professionally in C++, Kotlin, Java, Python, Shell
+- I maintain a ["double" keyboard driver](https://github.com/MichalMaruska/fork-plugin/) for Xorg, Weston and Windows 10+
+- I have some extensions to other projects, and have a tool to keep a [git-hierarchy](https://github.com/MichalMaruska/git-hierarchy-go) of these extensions. Implemented first in shell, then GoLang
+- 👀 I’m interested in ... Scheme language (gauche, chez, scsh...)
+- But I can code professionally in C++, GoLang, Kotlin, Java, Python, Shell (soon Rust)
 - 🌱 I’m currently learning ... OpenCV
-- 💞️ I’m looking to collaborate on ... apt packaging, git, keyboard input, sawfish WM, gauche
-- I maintain a "double" keyboard driver for Xorg, Weston and Windows 10+
+- 💞️ main interests: apt packaging, sawfish WM
 - 📫 How to reach me ...
 
 <!---
