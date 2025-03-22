@@ -5,9 +5,9 @@
 - But I can code professionally in C++, GoLang, Kotlin, Java, Python, Shell (soon Rust)
 - 🌱 I’m currently learning ... OpenCV
 - 💞️ main interests: apt packaging, sawfish WM
-- 📫 How to reach me ...
+- I'm looking for a  (remote) job
 
 <!---
-MichalMaruska-TomTom/MichalMaruska-TomTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MichalMaruska/MichalMaruska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
