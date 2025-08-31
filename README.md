@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MichalMaruska
 - I maintain a ["double" keyboard driver](https://github.com/MichalMaruska/fork-plugin/) for Xorg, Weston and Windows 10+
-- I have some extensions to other projects, and have a tool to keep a [git-hierarchy](https://github.com/MichalMaruska/git-hierarchy-go) of these extensions. Implemented first in shell, then GoLang
+- I have some extensions to other projects, and have a tool to keep a [git-hierarchy](https://github.com/MichalMaruska/git-hierarchy-go) of these extensions. Implemented first in [shell](https://github.com/MichalMaruska/git-hierarchy), then GoLang, and [Rust](https://github.com/MichalMaruska/git-hierarchy-rust), based on libgit2
 - 👀 I’m interested in ... Scheme language (gauche, chez, scsh...)
-- But I can code professionally in C++, GoLang, Kotlin, Java, Python, Shell (soon Rust)
+- But I can code professionally in Rust, C++, GoLang, Kotlin, Java, Python, Shell
 - 🌱 I’m currently learning ... OpenCV
-- 💞️ main interests: apt packaging, sawfish WM
+- 💞️ other interests: math
 - I'm looking for a  (remote) job
 
 <!---
