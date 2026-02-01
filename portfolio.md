@@ -1,11 +1,12 @@
 ## Involvement with open source software
 
-During the university studies, just after learning about Unix, I started to use Unixware (in a family
+<!-- During the university studies, just after learning about Unix, I started to use Unixware (in a family
 start-up business, early 1995). Soon after, I heard from a classmate the word Linux (1995), so I
 installed Slackware, and started to base all work on that.
 
 Both for my thesis and for the work, I learned Emacs, Tex, Postgres. Later I consciously focused on
 tools around Scheme language (Sawfish window manager, Scheme Shell, emacs extensions).
+-->
 In years 2003-2006 I fixed some bugs, and came up with new features:
 
 
