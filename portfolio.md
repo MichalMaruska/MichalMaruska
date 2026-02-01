@@ -10,10 +10,9 @@ tools around Scheme language (Sawfish window manager, Scheme Shell, emacs extens
 In years 2003-2006 I fixed some bugs, and came up with new features:
 
 
-* 2003 spontaneous repeated keyboard events (during sync grab) https://www.mail-
-archive.com/xfree86@xfree86.org/msg04354.html
-* 2004 sawfish fixes & improvements https://mail.gnome.org/archives/sawfish-list/2005-
-February/msg00010.html
+* 2003 spontaneous repeated keyboard events (during sync grab)
+https://www.mail-archive.com/xfree86@xfree86.org/msg04354.html
+* 2004 sawfish fixes & improvements https://mail.gnome.org/archives/sawfish-list/2005-February/msg00010.html
 * use an algorithm for restacking windows with minimum requests
 https://mail.gnome.org/archives/sawfish-list/2004-September/msg00022.html
 * I released a custom sawfish with all my improvements:
@@ -23,7 +22,7 @@ https://sawfish.fandom.com/wiki/2012_06_26:_Sawfish_1.9.0
 * 2005 more sawfish bugs
 https://mail.gnome.org/archives/sawfish-list/2005-February/msg00010.html
 * djvulibre threading bugfix: https://sourceforge.net/p/djvu/mailman/message/3231672/
-* Gimp bugfix https://bugzilla.gnome.org/show_bug.cgi?id=304814At
+* Gimp bugfix https://bugzilla.gnome.org/show_bug.cgi?id=304814
 
 At this point I had a good understanding of key-event processing, and got an idea for an original
 feature, which required precise timestamps. But no effort was done to have it upstreamed.
