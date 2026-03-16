@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning ... OpenCV
 - 💞️ other interests: math
 - I'm looking for a  (remote) job
+- debian packages can be found in my [reprepro](https://github.com/MichalMaruska/michalmaruska.github.io)
+
 
 A more detailed [portfolio here](./portfolio.md).
 
