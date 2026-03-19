@@ -3,7 +3,7 @@
 - I package all my SW as debian-unstable packages, built by github Actions,
 - debian packages can be found in my [reprepro](https://github.com/MichalMaruska/michalmaruska.github.io)
 
-- I maintain a ["double" keyboard driver](https://github.com/MichalMaruska/fork-plugin/) for Xorg, Weston and Windows 10+ (similar to [home-row mods of QMK](https://precondition.github.io/home-row-mods))
+- I maintain a ["double" keyboard driver](https://github.com/MichalMaruska/fork-plugin/) for Xorg, Weston and Windows 10+ (similar to [home-row mods of QMK](https://precondition.github.io/home-row-mods) but without the need of reprogramming a microcontroller inside the costly keyboard)
 - I have some extensions to other projects, and have a tool to keep a [git-hierarchy](https://maruska7.blogspot.com/2012/11/git-hierarchy-how-to-use.html) of these extensions. Implemented first in [shell](https://github.com/MichalMaruska/git-hierarchy), then [GoLang](https://github.com/MichalMaruska/git-hierarchy-go), and [Rust](https://github.com/MichalMaruska/git-hierarchy-rust), based on libgit2
 - 👀 I’m interested in ... Rust and Scheme language (gauche, chez, scsh...)
 - I have coded professionally in C++- Kotlin, Java, Python, Shell, C
