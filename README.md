@@ -9,6 +9,7 @@
 - I have coded professionally in C++- Kotlin, Java, Python, Shell, C
 - 🌱 I’m currently learning ... OpenCV
 - 💞️ other interests: math
+- I speak (every week) fluently English, Czech, Italian, Russian, and I study French
 - I'm looking for a  (remote) job, using Rust
 
 
