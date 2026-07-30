@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichalMaruska
 
-- I package all my SW as debian-unstable packages, built by github Actions,
-- debian packages can be found in my [reprepro](https://github.com/MichalMaruska/michalmaruska.github.io)
+- I package all my SW as debian-unstable packages, built by github Actions: I have a separate ["github organization"](https://github.com/Michal-Maruska/) for it.
+- debian packages can be found in my [reprepro](https://github.com/Michal-Maruska/apt-repo)
 
 - I maintain a ["double" keyboard driver](https://github.com/MichalMaruska/fork-plugin/) for Xorg, Weston and Windows 10+ (similar to [home-row mods of QMK](https://precondition.github.io/home-row-mods) but without the need of reprogramming a microcontroller inside the costly keyboard)
 - I have some extensions to other projects, and have a tool to keep a [git-hierarchy](https://maruska7.blogspot.com/2012/11/git-hierarchy-how-to-use.html) of these extensions. Implemented first in [shell](https://github.com/MichalMaruska/git-hierarchy), then [GoLang](https://github.com/MichalMaruska/git-hierarchy-go), and [Rust](https://github.com/MichalMaruska/git-hierarchy-rust), based on libgit2
